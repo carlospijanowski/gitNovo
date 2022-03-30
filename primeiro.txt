@@ -2,5 +2,7 @@ linha 1
 linha 2
 linha 3
 linha 4 para um novo commit
+linha 5 local
+linha 6 local
 linha 5 feita no github
 mais uma linha no gitHub
